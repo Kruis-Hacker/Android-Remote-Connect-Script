@@ -3,5 +3,6 @@ git init
 git add README.md
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/LuisCYD-Hacker/Android-Remote-Connect-Script.git
+git remote add origin https://github.com/Kruis-Hacker/Android-Remote-Connect-Script.git
 git push -u origin main
+https://kruis.simdif.com
